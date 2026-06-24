@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dulce miel
+
+This log tracks the cryptographic history and versioning for the song **Dulce miel** (dulce-miel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T12:51:24.301562 | `v1` | `6bcdd2e1b3d4d6dea8040aacf60481fc4814503663695a90210e53b873ac7891` | `960d2da96905f98ac45e2dfcdeff1585f897e6f390af0ba3e536ab48a22ebc00` | `2026-06-24_dulce-miel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
