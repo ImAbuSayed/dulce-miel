@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dulce-miel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Dulce miel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-miel/) |
+| **Get License** | [Obtain a Music License for Dulce miel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-miel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dulce miel, tus labios tienen el veneno,
+> Bailando en la disco, el ambiente está lleno.
+> Me tienes adicto a tu cuerpo moreno,
+> Esta noche oscura te quito el freno.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
